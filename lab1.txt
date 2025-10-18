@@ -1,0 +1,13 @@
+# Assignment 1: Age Calculator
+
+## Instructions: 
+
+  Make a folder called lab1. All programs to be stored in your lab1 folder
+
+Write a program that asks the user for the year of their birth, and prints out
+how old they will be at the end of 2001. Here is a sample run, user input has
+been underlined:
+
+Please enter the year of your birth: 1998
+At the end of 2001 you will be 3 years old.
+ 
